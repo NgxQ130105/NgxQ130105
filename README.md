@@ -1,0 +1,4 @@
+- 👋 Hewwo, I’m @Z3R0O2
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning to code several module and get used to the basic formats of CS
+- 📫 How to reach me: Mhhmmm emailing through quang13012005@gmail.com :'D
