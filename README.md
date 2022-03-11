@@ -1,4 +1,3 @@
-- 👋 Henwwo, I’m Z3R0O2 :3
-- 👀 I’m interested in Programming :>>>
-- 🌱 I’m currently learning basic CS formats and majoring CS soon!
-- 📫 To reach me: Mhhmmm emailing through quang13012005@gmail.com :"D
+An amateur high school lad taking the pathway to become a professional coder soon.
+- Currently i'm doing stuffs with FRC thinggies (First Robotics Competition). So feel free to reach out to help me if u're willing to lol as i find it's abstract in some ways 
+- Also with some side little automated projects to speed up my life lol!
