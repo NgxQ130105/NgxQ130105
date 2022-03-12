@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **quang13012005@gmail.com**
 
-- ⚡ Fun fact **I want to live in the most liberal country   , nuture the love and grow the inclusiveness of the next GEN robotics in my hometown 🤖**
+- ⚡ Fun fact: **I want to live in the most liberal country ![image](https://user-images.githubusercontent.com/91497379/158014390-7762571d-12b8-4070-ba23-33e81404dda8.png)  , nuture the love and grow the inclusiveness of the next GEN robotics in my hometown 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
