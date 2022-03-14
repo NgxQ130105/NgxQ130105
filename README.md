@@ -1,9 +1,9 @@
 <h1 align="center">Hewwooo 👋, I'm Quang Nguyen (Kwaang if u cannot spell Q lol)</h1>
 <h3 align="center">A Vietnamese high school student on his way to CS culture </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=z3r0o2&label=Profile%20views&color=0e75b6&style=flat" alt="z3r0o2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NgxQ130105&label=Profile%20views&color=0e75b6&style=flat" alt="NgxQ130105" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3r0o2" alt="z3r0o2" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NgxQ130105" alt="NgxQ130105" /></a> </p>
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning **Computer Vision, Projectile Motion, Discord Bot and Small App development**
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/z3r0o2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="z3r0o2" height="30" width="40" /></a>
+<a href="https://fb.com/NgxQ130105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NgxQ130105" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Also my current work:<h/3>
@@ -33,10 +33,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khooinguyeen&show_icons=true&locale=en&layout=compact" alt="z3r0o2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khooinguyeen&show_icons=true&locale=en&layout=compact" alt="NgxQ130105" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z3r0o2&show_icons=true&locale=en" alt="z3r0o2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NgxQ130105&show_icons=true&locale=en" alt="NgxQ130105" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z3r0o2&" alt="z3r0o2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NgxQ130105&" alt="NgxQ130105" /></p>
