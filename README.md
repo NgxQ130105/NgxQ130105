@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NgxQ130105" alt="NgxQ130105" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on [FRC6520_Vision_2022](https://github.com/NgxQ130105/FRC6520_Vision_2022)
 - 🌱 I’m currently learning **Computer Vision, Projectile Motion, Discord Bot and Small App development**
 
 - 💬 Ask me about **Robotics or other random stuffs lol**
