@@ -17,7 +17,7 @@
 <h3 align="left">Also my current work:<h/3>
 <p align="left">
 <a href="https://www.firstinspires.org/robotics/frc" target="_blank" rel="noreferrer"> <img src=https://user-images.githubusercontent.com/91497379/158015665-c0efc493-ec2f-48bd-bcf3-bdb4ebe22fe6.png alt="FRC" width="55" height="55"/> </a>
-<a href="https://www.gart6520.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91497379/158015135-7c5e2940-3579-460d-bc7b-0af066732207.png" alt="GART6520" width="70" height="70"/> </a>
+<a href="gart6520.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91497379/158015135-7c5e2940-3579-460d-bc7b-0af066732207.png" alt="GART6520" width="70" height="70"/> </a>
 
 
 
